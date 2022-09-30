@@ -2,6 +2,8 @@
 This Tic Tac Toe game was made in Matlab. 
 The code and demo videos of the game play can be found in the repository where everying is organised into different labeled folders.
 
+If the demo videos aren't able to load here it could also be found on [here.](https://drive.google.com/drive/folders/1foLTt8-ebnwTzdBvRap36rGq58Dur-FX?usp=sharing)
+
 The code of the Firgures for the GUI could be found [here.](https://drive.google.com/drive/folders/1pH51-JW0CO4h8fkLsI3nzNFc4v9-eVPi?usp=sharing)
 
 This game consist of four levels:
